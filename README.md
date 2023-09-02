@@ -1,9 +1,7 @@
 # Hello! 
-I am a junior, and while I plan on becoming an educator, I have a love for programming. I'm definitely still a student, but I learn more everyday!
+I'm just your average hobbyist programmer. I'm not very good at all of this but I try to learn whenever I can.
 
-I'm interested in many things, but on GitHub, discord bots, python, javascript / nodejs, p5.js, java, and more!!
-
-I'm currrently in a computer programming class in my highschool, but I plan on going to WSU's computer science program!
+Some of the things I work on are discord bots, python scripts, javascript/nodejs/websites, p5.js skethes, java and more!
 
 # Some of my projects
 - [A 2d game engine](https://github.com/vacuousVersifer/2DGameEngine)
